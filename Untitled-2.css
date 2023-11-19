@@ -1,0 +1,22 @@
+body{
+    background-color: dimgray;
+}
+.zrzut{
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.sekcja{
+    display: flex;
+}
+.text{
+    padding-left: 50px;
+    padding-top: 20%;
+    color: white;
+    padding-right: 50px;
+}
+h1{
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    color: white;
+}
